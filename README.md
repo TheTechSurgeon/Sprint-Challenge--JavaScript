@@ -30,9 +30,15 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
+for each loops through an array but does not return a new array. map returns a new array
+
 2. What is the difference between a function and a method?
 
+a function is a freestanding operation. a method is part of an object
+
 3. What is closure?
+
+It's a function and the surrounding calls it makes to others
 
 4. Describe the four rules of the 'this' keyword.
 
